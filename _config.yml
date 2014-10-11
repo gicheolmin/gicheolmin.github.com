@@ -1,8 +1,8 @@
 # Site settings
-title: "Typewriter"
-description: "So I was feeling nostalgic."
+title: "Cheolmin's project blog"
+description: "HELLO"
 baseurl: ""
-url: "http://alixedi.github.io"
+url: "http://gicheol.github.io"
 
 # Build settings
 markdown: kramdown
@@ -12,11 +12,11 @@ paginate: 3
 
 # Links
 links:
-  - title: "abt"
+  - title: "hello"
     url: /about
-  - title: "twt"
+  - title: "my"
     url: http://twitter.com/alixedi
   - title: "git"
     url: http://github.com/alixedi
-  - title: "rss"
+  - title: "blog"
     url: /feed.xml
