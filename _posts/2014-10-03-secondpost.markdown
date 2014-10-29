@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "secondpost"
+date:   2014-10-03 23:52:38
+categories: jekyll update
+---
+
 <style type="text/css">
  .tbl { border-top:2px solid #999999; border-left:1px solid #dddddd; }
  .tbl th { background-color:#eeeeee; border-bottom:1px solid #dddddd; border-right:1px solid #dddddd; padding:2px; }
