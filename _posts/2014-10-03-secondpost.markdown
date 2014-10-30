@@ -46,3 +46,6 @@ categories: jekyll update
   <td><input type="radio" name="answer" id="answer_5" value="5" onClick="answer_check(this)" /><label for="answer_5">김수현</label></td>
  </tr>
  </table>
+ 
+ 
+ <div class="fb-comments" data-href="http://gicheolmin.github.io" data-width="1000" data-numposts="5" data-colorscheme="light"></div>
